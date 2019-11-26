@@ -1,0 +1,17 @@
+{
+    "id": "com.mattermost.creepy",
+    "name": "Creepy",
+    "description": "This plugin shows a creepy face following your cursor.",
+    "version": "0.1.0",
+    "min_server_version": "5.12.0",    
+    "webapp": {
+        "bundle_path": "webapp/dist/main.js"
+    },
+    "settings_schema": {
+        "header": "",
+        "footer": "",
+        "settings": [
+           
+        ]
+    }
+}
