@@ -2,6 +2,7 @@
 This plugin makes a creepy face that's following your cursor while you chat.
 
 Created as part of [Mattermost Hackathon 2019](https://github.com/mattermost/mattermost-hackathon-nov2019#how-do-i-submit-my-project)
+Uses [Creepyface](https://github.com/4lejandrito/creepyface)
 
 ![image](./assets/demo.gif)
 
