@@ -35,7 +35,7 @@
     "style-loader": "0.23.1",
     "url-loader": "^2.3.0",
     "webpack": "4.35.0",
-    "webpack-cli": "3.3.5"
+    "webpack-cli": "3.3.12"
   },
   "dependencies": {
     "creepyface": "^4.2.4",
